@@ -1,2 +1,3 @@
 
 Eu estou aprendendo os comandos do git 
+Eu entendi como atualizar o meu código no github
